@@ -63,7 +63,7 @@ Rename the first target as Home by pressing F2. Alternatively, select ToolsRenam
 
 ### PROGRAM 
 
-```c
+```python
 
 import sys
 import os
